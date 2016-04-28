@@ -1,0 +1,36 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="httpserver-colour:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/httpserver_colour_jar</output-path>
+    <root id="archive" name="httpserver-colour.jar">
+      <element id="module-output" name="httpserver-colour" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../apache-tomcat-7.0.69/lib/el-api.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../apache-tomcat-7.0.69/lib/jasper.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../apache-tomcat-7.0.69/lib/jsp-api.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../apache-tomcat-7.0.69/lib/catalina.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../apache-tomcat-7.0.69/lib/ecj-4.4.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../apache-tomcat-7.0.69/lib/jasper-el.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../apache-tomcat-7.0.69/lib/tomcat-api.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../apache-tomcat-7.0.69/lib/catalina-ha.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../apache-tomcat-7.0.69/lib/servlet-api.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../apache-tomcat-7.0.69/lib/tomcat-dbcp.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../apache-tomcat-7.0.69/lib/tomcat-jdbc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../apache-tomcat-7.0.69/lib/tomcat-util.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../apache-tomcat-7.0.69/lib/catalina-ant.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../apache-tomcat-7.0.69/lib/tomcat-coyote.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../apache-tomcat-7.0.69/lib/websocket-api.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../apache-tomcat-7.0.69/lib/tomcat-i18n-es.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../apache-tomcat-7.0.69/lib/tomcat-i18n-fr.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../apache-tomcat-7.0.69/lib/tomcat-i18n-ja.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../apache-tomcat-7.0.69/lib/annotations-api.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../apache-tomcat-7.0.69/lib/catalina-tribes.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../apache-tomcat-7.0.69/lib/tomcat7-websocket.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/gson-2.6.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/httpcore-4.4.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/httpclient-4.5.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/ormlite-core-4.48.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/ormlite-jdbc-4.48.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/httpcore-nio-4.4.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/mysql-connector-java-5.1.38-bin.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
